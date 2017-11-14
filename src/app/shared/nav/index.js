@@ -9,6 +9,10 @@ export default () => (
    <AppBar
     title="YouTube"
     className="nav"
-        iconElementLeft={<IconButton><span className="youtube-logo" /></IconButton>}
+    iconElementLeft={
+      <IconButton>
+        <span className="youtube-logo" />
+      </IconButton>
+    }
   />
 );
