@@ -3,7 +3,7 @@ import AppBar from 'material-ui/AppBar';
 import Avatar from 'material-ui/Avatar';
 import IconButton from 'material-ui/IconButton';
 import IconMenu from 'material-ui/IconMenu';
-import Person from 'material-ui/svg-icons/social/Person';
+import AccountCircle from 'material-ui/svg-icons/action/account-circle';
 import Search from 'material-ui/svg-icons/action/Search';
 import Videocam from 'material-ui/svg-icons/av/Videocam';
 
@@ -28,7 +28,7 @@ export default () => (
           <Search />
         </IconButton>
         <IconButton>
-          <Person />
+          <AccountCircle />
         </IconButton>
       </div>
     }
