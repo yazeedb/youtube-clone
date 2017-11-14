@@ -1,0 +1,8 @@
+$bottom-nav-border: 1px solid #dcdcdc;
+
+.bottom-nav {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  border-top: $bottom-nav-border;
+}
