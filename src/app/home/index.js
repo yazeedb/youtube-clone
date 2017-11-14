@@ -1,8 +1,9 @@
 import React from 'react';
+import Nav from '../shared/nav';
 
 const Home = () => (
   <div className="home">
-    Hello Home page
+    <Nav />
   </div>
 );
 
