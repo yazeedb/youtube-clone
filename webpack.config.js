@@ -9,7 +9,7 @@ module.exports = {
   },
   entry: root('src/index'),
   resolve: {
-    extensions: ['.js', '.jsx']
+    extensions: ['.js']
   },
   module: {
     rules: [
@@ -19,6 +19,7 @@ module.exports = {
         use: {
           loader: 'babel-loader',
           options: {
+            presets: ['react'],
             plugins: ['transform-object-rest-spread']
           }
         }
