@@ -1,9 +1,9 @@
 import React from 'react';
 import { render } from 'react-dom';
 import { Provider } from 'react-redux';
+import Routes from './app/routes';
 
 render(
-    // React.createElement('h1', { children: 'beef' }),
-    <h1>yo</h1>,
+    Routes,
     document.getElementById('root')
 );
