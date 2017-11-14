@@ -8,6 +8,7 @@ import './nav.scss';
 export default () => (
    <AppBar
     title="YouTube"
+    titleStyle={ { fontWeight: 'bold' } }
     className="nav"
     iconElementLeft={
       <IconButton>
