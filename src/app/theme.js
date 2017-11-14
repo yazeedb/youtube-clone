@@ -6,6 +6,7 @@ const almostBlack = '#282828';
 export default getMuiTheme({
   palette: {
     primary1Color: white,
+    textColor: almostBlack,
     alternateTextColor: almostBlack
   }
 });
