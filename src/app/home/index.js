@@ -4,8 +4,7 @@ import BottomNav from '../shared/bottom-nav';
 
 const Home = () => (
   <div className="home">
-    <Nav />
-    <BottomNav />
+    Home page
   </div>
 );
 
