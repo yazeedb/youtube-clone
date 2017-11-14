@@ -9,7 +9,7 @@ module.exports = {
     path: root('dist'),
     filename: 'bundle.js'
   },
-  entry: root('src/index'),
+  entry: root('src/app/index'),
   resolve: {
     extensions: ['.js']
   },
