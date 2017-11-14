@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "server": "nodemon server.js",
     "watch": "webpack --watch"
   },
   "keywords": [],
