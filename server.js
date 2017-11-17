@@ -5,7 +5,7 @@ const PORT = 8080;
 
 app.use(express.static(join(__dirname, 'dist')));
 
-app.get('/trending', (req, res) => {
+app.get('/api/trending', (req, res) => {
     const fakeTrendingData = require('./src/mock-json/trending.json');
 
     res.status(200).send(fakeTrendingData);
