@@ -1,4 +1,5 @@
 import fetch from 'isomorphic-fetch';
+import { setVideoList } from './videoList';
 
 export const fetchTrendingVideos = () => (dispatch) => (
   fetch('/api/trending')
@@ -8,5 +9,6 @@ export const fetchTrendingVideos = () => (dispatch) => (
   })
   .then((json) => {
     console.log('fetchTrendingVideos json:', json);
+    dispatch(setVideoList(json.items));
   })
 );
