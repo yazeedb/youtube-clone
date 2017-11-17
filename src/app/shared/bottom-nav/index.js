@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import { BottomNavigation, BottomNavigationItem } from 'material-ui/BottomNavigation';
 import Home from 'material-ui/svg-icons/action/home';
 import WhatsHot from 'material-ui/svg-icons/social/whatshot';
@@ -10,8 +11,14 @@ import './bottom-nav.scss';
 export default () => (
   <Paper zDepth={ 1 } className="bottom-nav">
     <BottomNavigation>
-      <BottomNavigationItem label="Home" icon={ <Home /> } />
-      <BottomNavigationItem label="Trending" icon={ <WhatsHot /> } />
+      <Link to="/">
+        <BottomNavigationItem label="Home" icon={ <Home /> } />
+      </Link>
+
+      <Link to="trending">
+        <BottomNavigationItem label="Trending" icon={ <WhatsHot /> } />
+      </Link>
+
       <BottomNavigationItem label="Subscriptions" icon={ <Subscriptions /> } />
       <BottomNavigationItem label="Library" icon={ <Folder /> } />
     </BottomNavigation>
