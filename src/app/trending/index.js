@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
+import VideoList from '../shared/VideoList';
 import { fetchTrendingVideos } from '../shared/actions/fetch';
 
 class Trending extends Component {
@@ -10,9 +11,12 @@ class Trending extends Component {
   }
 
   render() {
+    console.log('trending props:', this.props);
+    const { videos } = this.props;
+
     return (
       <div className="trending">
-        trending
+        <VideoList videos={ videos } />
       </div>
     );
   }
