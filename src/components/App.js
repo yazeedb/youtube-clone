@@ -7,7 +7,9 @@ const App = (props) => (
   <div className="youtube">
     { console.log('app props:', props) }
     <Nav />
+    <div class="content">
       { props.children }
+    </div>
     <BottomNav selectedIndex={ 1 } />
   </div>
 );

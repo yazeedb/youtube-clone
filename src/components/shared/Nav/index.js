@@ -9,10 +9,17 @@ import Videocam from 'material-ui/svg-icons/av/Videocam';
 
 import './Nav.scss';
 
+const navStyle = {
+  position: 'fixed',
+  top: 0,
+  left: 0
+};
+
 export default () => (
    <AppBar
     title="YouTube"
     className="nav"
+    style={ navStyle }
     iconElementLeft={
       <IconButton>
         <span className="youtube-logo" />
