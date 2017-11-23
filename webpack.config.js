@@ -11,7 +11,13 @@ module.exports = {
   },
   entry: root('src/index'),
   resolve: {
-    extensions: ['.js']
+    extensions: ['.js'],
+    alias: {
+      actions: root('src/actions'),
+      reducers: root('src/reducers'),
+      components: root('src/components'),
+      shared: root('src/components/shared')
+    }
   },
   module: {
     rules: [
