@@ -9,18 +9,18 @@ import Paper from 'material-ui/Paper';
 import './BottomNav.scss';
 
 export default () => (
-  <Paper zDepth={ 1 } className="bottom-nav">
-    <BottomNavigation>
-      <Link to="/">
-        <BottomNavigationItem label="Home" icon={ <Home /> } />
-      </Link>
+	<Paper zDepth={ 1 } className="bottom-nav">
+		<BottomNavigation>
+			<Link to="/">
+				<BottomNavigationItem label="Home" icon={ <Home /> } />
+			</Link>
 
-      <Link to="trending">
-        <BottomNavigationItem label="Trending" icon={ <WhatsHot /> } />
-      </Link>
+			<Link to="trending">
+				<BottomNavigationItem label="Trending" icon={ <WhatsHot /> } />
+			</Link>
 
-      <BottomNavigationItem label="Subscriptions" icon={ <Subscriptions /> } />
-      <BottomNavigationItem label="Library" icon={ <Folder /> } />
-    </BottomNavigation>
-  </Paper>
+			<BottomNavigationItem label="Subscriptions" icon={ <Subscriptions /> } />
+			<BottomNavigationItem label="Library" icon={ <Folder /> } />
+		</BottomNavigation>
+	</Paper>
 );

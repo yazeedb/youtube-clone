@@ -4,22 +4,22 @@ import VideoList from 'shared/VideoList';
 import { fetchTrendingVideos } from 'actions/fetch';
 
 class Trending extends Component {
-  componentWillMount() {
-    const { fetchTrendingVideos } = this.props;
+	componentWillMount() {
+		const { fetchTrendingVideos } = this.props;
 
-    fetchTrendingVideos();
-  }
+		fetchTrendingVideos();
+	}
 
-  render() {
-    console.log('trending props:', this.props);
-    const { videos } = this.props;
+	render() {
+		console.log('trending props:', this.props);
+		const { videos } = this.props;
 
-    return (
-      <div className="trending">
-        <VideoList videos={ videos } />
-      </div>
-    );
-  }
+		return (
+			<div className="trending">
+				<VideoList videos={ videos } />
+			</div>
+		);
+	}
 }
 
 const mapStateToProps = ({ videoList }) => videoList;

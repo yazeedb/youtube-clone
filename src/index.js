@@ -11,14 +11,14 @@ import Routes from './routes';
 import theme from './theme';
 
 const App = () => (
-  <Provider store={ createStore(rootReducer, applyMiddleware(thunk)) }>
-    <MuiThemeProvider muiTheme={ theme }>
-      <Routes />
-    </MuiThemeProvider>
-  </Provider>
+	<Provider store={ createStore(rootReducer, applyMiddleware(thunk)) }>
+		<MuiThemeProvider muiTheme={ theme }>
+			<Routes />
+		</MuiThemeProvider>
+	</Provider>
 );
 
 render(
-    <App />,
-    document.getElementById('root')
+	<App />,
+	document.getElementById('root')
 );

@@ -1,11 +1,9 @@
 import React from 'react';
-import Nav from 'shared/Nav';
-import BottomNav from 'shared/BottomNav';
 
 const Home = () => (
-  <div className="home">
+	<div className="home">
     Home page
-  </div>
+	</div>
 );
 
 export default Home;
