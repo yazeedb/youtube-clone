@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import VideoList from '../shared/VideoList';
-import { fetchTrendingVideos } from '../shared/actions/fetch';
+import { fetchTrendingVideos } from '../../actions/fetch';
 
 class Trending extends Component {
   componentWillMount() {

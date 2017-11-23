@@ -1,11 +1,8 @@
 import React from 'react';
 import { BrowserRouter, Route } from 'react-router-dom';
-
-import Nav from './shared/Nav';
-import BottomNav from './shared/BottomNav';
-import App from './App';
-import Home from './Home';
-import Trending from './Trending';
+import App from './components/App';
+import Home from './components/Home';
+import Trending from './components/Trending';
 
 export default () => (
   <BrowserRouter>

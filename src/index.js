@@ -6,7 +6,7 @@ import { Provider } from 'react-redux';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 
 import './global.scss';
-import rootReducer from './rootReducer';
+import rootReducer from './reducers/root';
 import Routes from './routes';
 import theme from './theme';
 

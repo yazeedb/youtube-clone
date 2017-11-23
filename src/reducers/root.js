@@ -1,5 +1,5 @@
 import { combineReducers } from 'redux';
-import videoList from './shared/reducers/videoList';
+import videoList from './videoList';
 
 export default combineReducers({
   videoList
