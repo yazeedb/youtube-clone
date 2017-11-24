@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
+import AppBar from 'material-ui/AppBar';
 import Scrollable from 'shared/Scrollable';
-import AppBar from '../';
 
-const getAppBarStyle = (scrollingDown) => ({
+const getSlidingStyles = (scrollingDown) => ({
 	position: 'fixed',
 	top: scrollingDown ? '-50%' : 0,
 	left: 0,
@@ -37,10 +37,12 @@ class SlidingAppBar extends Component {
 	}
 
 	render() {
+		const { scrollingDown } = this.state;
+
 		return (
 			<Scrollable onScroll={ this.onScroll }>
 				<AppBar
-					style={ getAppBarStyle(this.state.scrollingDown) }
+					style={ getSlidingStyles(scrollingDown) }
 					{ ...this.props }
 				/>
 			</Scrollable>

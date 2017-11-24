@@ -1,13 +1,14 @@
 import React from 'react';
-import AppBar from 'material-ui/AppBar';
 import IconButton from 'material-ui/IconButton';
 import AccountCircle from 'material-ui/svg-icons/action/account-circle';
 import Search from 'material-ui/svg-icons/action/Search';
 import Videocam from 'material-ui/svg-icons/av/Videocam';
+
+import SlidingAppBar from '../SlidingAppBar';
 import YouTubeLogo from 'assets/youtube_social_icon_red.png';
 
 export default (props) => (
-	<AppBar
+	<SlidingAppBar
 		title="YouTube"
 		iconElementLeft={
 			<IconButton>
