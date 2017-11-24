@@ -1,15 +1,17 @@
 import React from 'react';
 import { withRouter } from 'react-router';
-import SlidingAppBar from './shared/AppBar/SlidingAppBar';
+import PrimaryAppBar from './shared/AppBar/PrimaryAppBar';
 import BottomNav from './shared/BottomNav';
 
 const App = (props) => (
 	<div className="youtube">
 		{ console.log('app props:', props) }
-		<SlidingAppBar />
+		<PrimaryAppBar />
+
 		<div className="content">
 			{ props.children }
 		</div>
+
 		<BottomNav selectedIndex={ 1 } />
 	</div>
 );
