@@ -7,7 +7,7 @@ import Videocam from 'material-ui/svg-icons/av/Videocam';
 
 import './AppBar.scss';
 
-export default ({ ...props }) => (
+export default (props) => (
 	<AppBar
 		title="YouTube"
 		className="app-bar"
