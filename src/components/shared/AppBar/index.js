@@ -5,12 +5,12 @@ import AccountCircle from 'material-ui/svg-icons/action/account-circle';
 import Search from 'material-ui/svg-icons/action/Search';
 import Videocam from 'material-ui/svg-icons/av/Videocam';
 
-import './Nav.scss';
+import './AppBar.scss';
 
-const Nav = ({ ...props }) => (
+export default ({ ...props }) => (
 	<AppBar
 		title="YouTube"
-		className="nav"
+		className="app-bar"
 		iconElementLeft={
 			<IconButton>
 				<span className="youtube-logo" />
@@ -32,5 +32,3 @@ const Nav = ({ ...props }) => (
 		{ ...props }
 	/>
 );
-
-export default Nav;

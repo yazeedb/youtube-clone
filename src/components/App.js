@@ -1,12 +1,12 @@
 import React from 'react';
 import { withRouter } from 'react-router';
-import SlidingNav from './shared/Nav/SlidingNav';
+import SlidingAppBar from './shared/AppBar/SlidingAppBar';
 import BottomNav from './shared/BottomNav';
 
 const App = (props) => (
 	<div className="youtube">
 		{ console.log('app props:', props) }
-		<SlidingNav />
+		<SlidingAppBar />
 		<div className="content">
 			{ props.children }
 		</div>

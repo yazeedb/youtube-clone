@@ -1,15 +1,15 @@
 import React, { Component } from 'react';
 import Scrollable from 'shared/Scrollable';
-import Nav from '../';
+import AppBar from '../';
 
-const getNavStyle = (scrollingDown) => ({
+const getAppBarStyle = (scrollingDown) => ({
 	position: 'fixed',
 	top: scrollingDown ? '-50%' : 0,
 	left: 0,
 	transition: 'top 0.5s'
 });
 
-class SlidingNav extends Component {
+class SlidingAppBar extends Component {
 	constructor(props) {
 		super(props);
 
@@ -39,8 +39,8 @@ class SlidingNav extends Component {
 	render() {
 		return (
 			<Scrollable onScroll={ this.onScroll }>
-				<Nav
-					style={ getNavStyle(this.state.scrollingDown) }
+				<AppBar
+					style={ getAppBarStyle(this.state.scrollingDown) }
 					{ ...this.props }
 				/>
 			</Scrollable>
@@ -48,4 +48,4 @@ class SlidingNav extends Component {
 	}
 }
 
-export default SlidingNav;
+export default SlidingAppBar;
