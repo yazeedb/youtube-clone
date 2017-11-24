@@ -15,7 +15,8 @@ module.exports = {
 			actions: root('src/actions'),
 			reducers: root('src/reducers'),
 			components: root('src/components'),
-			shared: root('src/components/shared')
+			shared: root('src/components/shared'),
+			assets: root('assets')
 		}
 	},
 	module: {
