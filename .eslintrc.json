@@ -16,6 +16,7 @@
         "react"
     ],
     "rules": {
+		"max-len": ["error", 80],
         "no-console": 0,
         "indent": [
             "error",
