@@ -1,0 +1,17 @@
+.video {
+	padding: 16px 12px;
+
+	.thumbnail-container {
+		position: relative;
+	}
+
+	.thumbnail {
+		position: absolute;
+		top: 0;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		background-position: center;
+		background-size: cover;
+	}
+}
