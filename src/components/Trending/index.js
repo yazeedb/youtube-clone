@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
-import VideoList from 'shared/VideoList';
 import { fetchTrendingVideos } from 'actions/fetch';
+import Video from 'shared/Video';
 
 class Trending extends Component {
 	componentWillMount() {
@@ -16,7 +16,15 @@ class Trending extends Component {
 
 		return (
 			<div className="trending">
-				<VideoList videos={ videos } />
+				{
+					videos.map((vid) => (
+						<Video
+							config={ vid }
+							videoPos="top"
+							key={ vid.id }
+						/>
+					))
+				}
 			</div>
 		);
 	}

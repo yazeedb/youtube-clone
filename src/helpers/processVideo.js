@@ -5,7 +5,7 @@ export const processForDetailedList = ({
 }) => ({
 	id,
 	title,
-	thumbnail: thumbnails.medium,
+	thumbnail: thumbnails.high,
 	publishedAt,
 	duration,
 	channelId,
