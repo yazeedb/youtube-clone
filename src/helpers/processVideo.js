@@ -1,11 +1,11 @@
-export const processDetailedVideo = ({
+export const processForDetailedList = ({
 	id,
 	contentDetails: { duration },
 	snippet: { channelId, channelTitle, thumbnails, title, publishedAt }
 }) => ({
 	id,
 	title,
-	thumbnail: thumbnails.high,
+	thumbnail: thumbnails.medium,
 	publishedAt,
 	duration,
 	channelId,
