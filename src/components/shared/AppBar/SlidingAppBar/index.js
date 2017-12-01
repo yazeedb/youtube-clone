@@ -24,6 +24,11 @@ class SlidingAppBar extends Component {
 	onScroll() {
 		const { oldPageYOffset } = this.state;
 		const currentPageYOffset = window.pageYOffset;
+
+		if (currentPageYOffset <= 0) {
+			return;
+		}
+
 		const scrollingDown = currentPageYOffset > oldPageYOffset;
 
 		console.log('oldPageYOffset:', oldPageYOffset);
