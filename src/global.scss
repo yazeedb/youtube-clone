@@ -1,20 +1,12 @@
 * {
-	box-sizing: border-box;
-}
-
-html {
-	overflow: hidden;
-	height: 100%;
+  box-sizing: border-box;
 }
 
 body {
-	margin: 0;
-	overflow: auto;
-	height: 100%;
-	-webkit-overflow-scrolling: touch;
+  margin: 0;
 }
 
 .content {
-	padding-top: 64px;
-	padding-bottom: 57px;
+  padding-top: 64px;
+  padding-bottom: 57px;
 }
