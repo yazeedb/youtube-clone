@@ -3,6 +3,7 @@ import { Component } from 'react';
 class Scrollable extends Component {
 	constructor(props) {
 		super(props);
+
 		this.onScroll = this.onScroll.bind(this);
 	}
 
