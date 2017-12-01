@@ -5,6 +5,7 @@ class Scrollable extends Component {
 		super(props);
 		this.onScroll = this.onScroll.bind(this);
 	}
+
 	componentWillMount() {
 		document.addEventListener('scroll', this.onScroll);
 	}
