@@ -25,12 +25,10 @@ module.exports = {
 			{
 				test: /\.js$/,
 				exclude: /node_modules/,
-				use: {
-					loader: 'babel-loader',
-					options: {
-						presets: ['react'],
-						plugins: ['transform-object-rest-spread']
-					}
+				loader: 'babel-loader',
+				query: {
+					presets: ['es2015', 'react'],
+					plugins: ['transform-object-rest-spread']
 				}
 			},
 			{
