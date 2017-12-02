@@ -12,9 +12,7 @@ export const fetchTrendingVideos = () => (dispatch) => (
 		.then((json) => {
 			console.log('fetchTrendingVideos json:', json);
 
-			const processedVideos = json
-				.items
-				.map((vid) => processForDetailedList(vid));
+			const processedVideos = json.items.map(processForDetailedList);
 
 			dispatch(setVideoList(processedVideos));
 		})
