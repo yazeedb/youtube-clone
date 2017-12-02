@@ -1,7 +1,8 @@
 export const processForDetailedList = ({
 	id,
 	contentDetails: { duration },
-	snippet: { channelId, channelTitle, thumbnails, title, publishedAt }
+	snippet: { channelId, channelTitle, thumbnails, title, publishedAt },
+	statistics: { viewCount }
 }) => ({
 	id,
 	title,
@@ -10,4 +11,5 @@ export const processForDetailedList = ({
 	duration,
 	channelId,
 	channelTitle,
+	viewCount
 });
