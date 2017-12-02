@@ -1,7 +1,13 @@
 import React from 'react';
-import RunningTime from './RunningTime';
+import IconButton from 'material-ui/IconButton';
 import MoreVert from 'material-ui/svg-icons/navigation/more-vert';
+import RunningTime from './RunningTime';
 import './Video.scss';
+// temporary channel thumbnail
+import Cat from '../../../../assets/cat.png';
+
+import abbrNumber from 'helpers/abbrNumber';
+import formatPublishDate from 'helpers/formatPublishDate';
 
 export default ({
 	config,
@@ -15,6 +21,29 @@ export default ({
 				style={ { backgroundImage: `url(${config.thumbnail.url})` } }
 			/>
 			<RunningTime duration={ config.duration } />
+		</div>
+		<div className="details-container">
+			<img src={ Cat } />
+
+			<div className="details">
+				<span className="title">{ config.title }</span>
+
+				<ul>
+					<li>
+						{ config.channelTitle }
+					</li>
+					<li>
+						{ abbrNumber(config.viewCount) } views
+					</li>
+					<li>
+						{ formatPublishDate(config.publishedAt) }
+					</li>
+				</ul>
+			</div>
+
+			<IconButton>
+				<MoreVert />
+			</IconButton>
 		</div>
 	</div>
 );

@@ -1,5 +1,6 @@
 .video {
 	padding: 16px 12px;
+	border-bottom: 1px solid #dcdcdc;
 
 	.thumbnail-container {
 		position: relative;
@@ -14,5 +15,41 @@
 		right: 0;
 		background-position: center;
 		background-size: cover;
+	}
+
+	.details-container {
+		display: flex;
+		margin-top: 12px;
+
+		img {
+			min-width: 40px;
+			min-height: 40px;
+			max-width: 40px;
+			max-height: 40px;
+			border-radius: 100%;
+			margin-right: 12px;
+		}
+	}
+
+	.details {
+		font-size: 14px;
+
+		ul {
+			list-style-type: none;
+		}
+
+		li {
+			display: inline-block;
+			font-size: 12px;
+			margin: 0 2px;
+
+			&:after {
+				content: " \002022  ";
+			}
+
+			&:last-child:after {
+				content: "";
+			}
+		}
 	}
 }
