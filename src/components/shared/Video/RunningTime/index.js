@@ -2,13 +2,13 @@ import React from 'react';
 import processDuration from 'helpers/processDuration';
 
 const styles = {
-	background: 'rgba(0, 0, 0, 0.6)',
+	background: 'rgba(0, 0, 0, 0.9)',
 	color: 'white',
 	position: 'absolute',
 	bottom: '5px',
 	right: '5px',
 	fontSize: '11px',
-	padding: '1px 4px',
+	padding: '2px 4px',
 	borderRadius: '2px'
 };
 
