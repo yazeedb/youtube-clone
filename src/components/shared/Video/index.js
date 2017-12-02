@@ -1,4 +1,5 @@
 import React from 'react';
+import RunningTime from './RunningTime';
 import MoreVert from 'material-ui/svg-icons/navigation/more-vert';
 import './Video.scss';
 
@@ -13,9 +14,7 @@ export default ({
 				className="thumbnail"
 				style={ { backgroundImage: `url(${config.thumbnail.url})` } }
 			/>
-			<div className="timestamp">
-				<span>4:35</span>
-			</div>
+			<RunningTime duration={ config.duration } />
 		</div>
 	</div>
 );
