@@ -4,7 +4,7 @@ import MoreVert from 'material-ui/svg-icons/navigation/more-vert';
 import RunningTime from './RunningTime';
 import './Video.scss';
 // temporary channel thumbnail
-import Cat from '../../../../assets/cat.png';
+import Cat from 'assets/cat.png';
 
 import abbrNumber from 'helpers/abbrNumber';
 import formatPublishDate from 'helpers/formatPublishDate';
