@@ -75,7 +75,7 @@
     "defaultAudioLanguage": "en"
    },
    "contentDetails": {
-    "duration": "PT2M10S",
+    "duration": "PT24H2M3S",
     "dimension": "2d",
     "definition": "hd",
     "caption": "false",
@@ -170,7 +170,7 @@
     "defaultAudioLanguage": "en"
    },
    "contentDetails": {
-    "duration": "PT2M33S",
+    "duration": "PT33S",
     "dimension": "2d",
     "definition": "hd",
     "caption": "false",
@@ -561,7 +561,7 @@
     }
    },
    "contentDetails": {
-    "duration": "PT2M15S",
+    "duration": "PT2M5S",
     "dimension": "2d",
     "definition": "hd",
     "caption": "false",
@@ -659,7 +659,7 @@
     "defaultAudioLanguage": "en"
    },
    "contentDetails": {
-    "duration": "PT22M10S",
+    "duration": "PT1H",
     "dimension": "2d",
     "definition": "hd",
     "caption": "false",
@@ -744,7 +744,7 @@
     "defaultAudioLanguage": "en"
    },
    "contentDetails": {
-    "duration": "PT8M44S",
+    "duration": "PT4S",
     "dimension": "2d",
     "definition": "hd",
     "caption": "true",
@@ -813,7 +813,7 @@
     "defaultAudioLanguage": "en"
    },
    "contentDetails": {
-    "duration": "PT6M34S",
+    "duration": "PT6M",
     "dimension": "2d",
     "definition": "hd",
     "caption": "true",
@@ -960,7 +960,7 @@
     "defaultAudioLanguage": "en"
    },
    "contentDetails": {
-    "duration": "PT7M31S",
+    "duration": "PT57M1S",
     "dimension": "2d",
     "definition": "hd",
     "caption": "true",
