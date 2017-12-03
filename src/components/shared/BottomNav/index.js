@@ -1,6 +1,9 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { BottomNavigation, BottomNavigationItem } from 'material-ui/BottomNavigation';
+import {
+	BottomNavigation,
+	BottomNavigationItem
+} from 'material-ui/BottomNavigation';
 import Home from 'material-ui/svg-icons/action/home';
 import WhatsHot from 'material-ui/svg-icons/social/whatshot';
 import Subscriptions from 'material-ui/svg-icons/av/subscriptions';
@@ -19,7 +22,11 @@ export default () => (
 				<BottomNavigationItem label="Trending" icon={ <WhatsHot /> } />
 			</Link>
 
-			<BottomNavigationItem label="Subscriptions" icon={ <Subscriptions /> } />
+			<BottomNavigationItem
+				label="Subscriptions"
+				icon={ <Subscriptions /> }
+			/>
+
 			<BottomNavigationItem label="Library" icon={ <Folder /> } />
 		</BottomNavigation>
 	</Paper>
