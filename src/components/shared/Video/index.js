@@ -28,7 +28,7 @@ export default ({
 			<div className="details">
 				<span className="title">{ config.title }</span>
 
-				<ul>
+				<ul className="secondary">
 					<li>
 						{ config.channelTitle }
 					</li>
