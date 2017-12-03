@@ -41,7 +41,13 @@ export default ({
 				</ul>
 			</div>
 
-			<IconButton>
+			<IconButton
+				style={{
+					padding: 0,
+					width: '24px',
+					height: '24px'
+				}}
+			>
 				<MoreVert />
 			</IconButton>
 		</div>

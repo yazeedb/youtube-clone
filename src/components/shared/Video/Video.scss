@@ -19,6 +19,7 @@
 
 	.details-container {
 		display: flex;
+		justify-content: space-between;
 		margin-top: 12px;
 
 		img {
@@ -33,6 +34,7 @@
 
 	.details {
 		font-size: 14px;
+		flex-basis: 75%;
 
 		ul {
 			list-style-type: none;
