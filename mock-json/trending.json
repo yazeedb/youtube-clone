@@ -186,396 +186,76 @@
    }
   },
   {
-   "kind": "youtube#video",
-   "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/E_WHEoKq1k55AwGMcPy2fWvYcuw\"",
-   "id": "pOEzjT-SED0",
-   "snippet": {
-    "publishedAt": "2017-11-27T05:00:00.000Z",
-    "channelId": "UCvNnDoK1N5_dP6J_EtMsd7w",
-    "title": "Remy Ma - Wake Me Up ft. Lil' Kim",
-    "description": "Remy Ma - \"Wake Me Up\" featuring Lil' Kim (Official Video)\n\nGet \"Wake Me Up\" here: http://smarturl.it/WMU \n\nFollow Remy Ma: \nFacebook: https://www.facebook.com/RealRemyMa/\nInstagram: https://www.instagram.com/remyma/ \nTwitter: https://twitter.com/RealRemyMa\n\nhttp://vevo.ly/kDNSkf",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/pOEzjT-SED0/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/pOEzjT-SED0/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/pOEzjT-SED0/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/pOEzjT-SED0/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/pOEzjT-SED0/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "RemyMaVEVO",
-    "tags": [
-     "Columbia",
-     "Hip Hop",
-     "Remy Ma feat. Lil' Kim",
-     "Wake Me Up"
-    ],
-    "categoryId": "10",
-    "liveBroadcastContent": "none",
-    "localized": {
-     "title": "Remy Ma - Wake Me Up ft. Lil' Kim",
-     "description": "Remy Ma - \"Wake Me Up\" featuring Lil' Kim (Official Video)\n\nGet \"Wake Me Up\" here: http://smarturl.it/WMU \n\nFollow Remy Ma: \nFacebook: https://www.facebook.com/RealRemyMa/\nInstagram: https://www.instagram.com/remyma/ \nTwitter: https://twitter.com/RealRemyMa\n\nhttp://vevo.ly/kDNSkf"
-    }
+	 "kind": "youtube#video",
+	 "etag": "\"7991kDR-QPaa9r0pePmDjBEa2h8/ZRCurotQzUOx9PP0x95dUYlmJJM\"",
+	 "id": "pjagqAGyoS0",
+	 "snippet": {
+	   "publishedAt": "2017-12-01T19:07:18.000Z",
+	   "channelId": "UCSAUGyc_xA8uYzaIVG6MESQ",
+	   "title": "How to get Views on YouTube!",
+	   "description": "Here are all the best tips and techniques to getting more views on Youtube in 2017.\nSee Bloopers and BTS here: https://www.youtube.com/watch?v=1ct32r4oYCg\n\nOrder my book \"how to write good\" \nhttp://higatv.com/ryan-higas-how-to-write-good-pre-order-links/\n\nJust Launched New Official Store\nhttps://www.gianthugs.com/collections/ryan\n\nHigaTV Channel\nhttp://www.youtube.com/higatv\n\nTwitter\nhttp://www.twitter.com/therealryanhiga\n\nFacebook\nhttp://www.facebook.com/higatv\n\nWebsite\nhttp://www.higatv.com\n\nInstagram\nhttp://www.instagram.com/notryanhiga\n\nSend us mail or whatever you want here!\nPO Box 232355\nLas Vegas, NV 89105",
+	   "thumbnails": {
+		 "default": {
+		   "url": "https://i.ytimg.com/vi/pjagqAGyoS0/default.jpg",
+		   "width": 120,
+		   "height": 90
+		 },
+		 "medium": {
+		   "url": "https://i.ytimg.com/vi/pjagqAGyoS0/mqdefault.jpg",
+		   "width": 320,
+		   "height": 180
+		 },
+		 "high": {
+		   "url": "https://i.ytimg.com/vi/pjagqAGyoS0/hqdefault.jpg",
+		   "width": 480,
+		   "height": 360
+		 },
+		 "standard": {
+		   "url": "https://i.ytimg.com/vi/pjagqAGyoS0/sddefault.jpg",
+		   "width": 640,
+		   "height": 480
+		 },
+		 "maxres": {
+		   "url": "https://i.ytimg.com/vi/pjagqAGyoS0/maxresdefault.jpg",
+		   "width": 1280,
+		   "height": 720
+		 }
+	   },
+	   "channelTitle": "nigahiga",
+	   "tags": [
+		 "ryan",
+		 "higa",
+		 "higatv",
+		 "nigahiga",
+		 "how to get views on youtube",
+		 "views",
+		 "tips",
+		 "techniques"
+	   ],
+	   "categoryId": "24",
+	   "liveBroadcastContent": "none",
+	   "localized": {
+		 "title": "How to get Views on YouTube!",
+		 "description": "Here are all the best tips and techniques to getting more views on Youtube in 2017.\nSee Bloopers and BTS here: https://www.youtube.com/watch?v=1ct32r4oYCg\n\nOrder my book \"how to write good\" \nhttp://higatv.com/ryan-higas-how-to-write-good-pre-order-links/\n\nJust Launched New Official Store\nhttps://www.gianthugs.com/collections/ryan\n\nHigaTV Channel\nhttp://www.youtube.com/higatv\n\nTwitter\nhttp://www.twitter.com/therealryanhiga\n\nFacebook\nhttp://www.facebook.com/higatv\n\nWebsite\nhttp://www.higatv.com\n\nInstagram\nhttp://www.instagram.com/notryanhiga\n\nSend us mail or whatever you want here!\nPO Box 232355\nLas Vegas, NV 89105"
+	   },
+	   "defaultAudioLanguage": "en"
+	 },
+	 "contentDetails": {
+	   "duration": "PT4M42S",
+	   "dimension": "2d",
+	   "definition": "hd",
+	   "caption": "true",
+	   "licensedContent": true,
+	   "projection": "rectangular"
+	 },
+	 "statistics": {
+	   "viewCount": "2405980",
+	   "likeCount": "191526",
+	   "dislikeCount": "1923",
+	   "favoriteCount": "0",
+	   "commentCount": "12393"
+	 }
    },
-   "contentDetails": {
-    "duration": "PT3M38S",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "false",
-    "licensedContent": true,
-    "regionRestriction": {
-     "allowed": [
-      "CA",
-      "CC",
-      "CD",
-      "CF",
-      "CG",
-      "CH",
-      "CI",
-      "CK",
-      "CL",
-      "CM",
-      "CN",
-      "CO",
-      "CR",
-      "CU",
-      "CV",
-      "CX",
-      "CY",
-      "CZ",
-      "VN",
-      "NU",
-      "NR",
-      "VI",
-      "NP",
-      "VG",
-      "VE",
-      "VC",
-      "NZ",
-      "VA",
-      "NG",
-      "NF",
-      "NE",
-      "NC",
-      "NA",
-      "NO",
-      "VU",
-      "NL",
-      "NI",
-      "FR",
-      "FO",
-      "FM",
-      "FK",
-      "FJ",
-      "FI",
-      "UG",
-      "UA",
-      "UM",
-      "US",
-      "UZ",
-      "UY",
-      "AZ",
-      "AX",
-      "AR",
-      "AS",
-      "AQ",
-      "AW",
-      "AT",
-      "AU",
-      "AI",
-      "AO",
-      "AL",
-      "AM",
-      "AF",
-      "AG",
-      "AD",
-      "AE",
-      "TC",
-      "TD",
-      "TG",
-      "TF",
-      "TH",
-      "TK",
-      "TJ",
-      "TM",
-      "TL",
-      "TO",
-      "TN",
-      "TR",
-      "TT",
-      "TW",
-      "TV",
-      "TZ",
-      "LC",
-      "LI",
-      "LK",
-      "DZ",
-      "ST",
-      "SV",
-      "LA",
-      "SY",
-      "SZ",
-      "LB",
-      "LY",
-      "SA",
-      "SB",
-      "SC",
-      "DE",
-      "SE",
-      "SG",
-      "SH",
-      "SI",
-      "DK",
-      "DJ",
-      "SL",
-      "LT",
-      "DO",
-      "LV",
-      "KY",
-      "KZ",
-      "KP",
-      "KR",
-      "KW",
-      "KH",
-      "KI",
-      "KM",
-      "KN",
-      "SR",
-      "SD",
-      "KE",
-      "KG",
-      "RS",
-      "RW",
-      "GY",
-      "RU",
-      "MO",
-      "GT",
-      "GU",
-      "ZA",
-      "GW",
-      "GP",
-      "GQ",
-      "GR",
-      "GS",
-      "GL",
-      "GM",
-      "GN",
-      "GH",
-      "GI",
-      "RE",
-      "GD",
-      "GE",
-      "GF",
-      "GG",
-      "RO",
-      "GA",
-      "GB",
-      "ES",
-      "LR",
-      "MH",
-      "DM",
-      "JP",
-      "ET",
-      "SM",
-      "MW",
-      "JO",
-      "SN",
-      "JM",
-      "SO",
-      "JE",
-      "BB",
-      "BA",
-      "BG",
-      "BF",
-      "BE",
-      "BD",
-      "BJ",
-      "BI",
-      "BH",
-      "BO",
-      "BN",
-      "BM",
-      "BL",
-      "BS",
-      "BR",
-      "BW",
-      "BV",
-      "YT",
-      "BT",
-      "BZ",
-      "BY",
-      "IR",
-      "IS",
-      "IQ",
-      "IT",
-      "QA",
-      "EE",
-      "ID",
-      "IE",
-      "MZ",
-      "IN",
-      "IO",
-      "IL",
-      "IM",
-      "MN",
-      "PT",
-      "ML",
-      "MM",
-      "ER",
-      "MK",
-      "PS",
-      "PR",
-      "MF",
-      "MG",
-      "MD",
-      "ME",
-      "PY",
-      "MC",
-      "MA",
-      "PE",
-      "EG",
-      "PG",
-      "PF",
-      "PA",
-      "EC",
-      "MX",
-      "MY",
-      "MV",
-      "PL",
-      "MT",
-      "MU",
-      "MR",
-      "PH",
-      "PK",
-      "MQ",
-      "PN",
-      "ZW",
-      "PM",
-      "HU",
-      "HT",
-      "YE",
-      "HR",
-      "HM",
-      "HN",
-      "EH",
-      "HK",
-      "ZM",
-      "PW",
-      "LU",
-      "MP",
-      "SJ",
-      "LS",
-      "MS",
-      "SK",
-      "WF",
-      "OM",
-      "WS"
-     ]
-    },
-    "projection": "rectangular"
-   },
-   "statistics": {
-    "viewCount": "448406",
-    "likeCount": "32045",
-    "dislikeCount": "4570",
-    "favoriteCount": "0",
-    "commentCount": "9018"
-   }
-  },
-  {
-   "kind": "youtube#video",
-   "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/-i52xTmoySynM6FvM0onL2sHK34\"",
-   "id": "p9wE8dyzEJE",
-   "snippet": {
-    "publishedAt": "2017-09-16T14:00:21.000Z",
-    "channelId": "UCF9imwPMSGz4Vq1NiTWCC7g",
-    "title": "A Quiet Place (2018) - Official Teaser Trailer - Paramount Pictures",
-    "description": "Silence is survival. Watch the teaser trailer for #AQuietPlace, starring Emily Blunt and John Krasinski. In theatres April 2018.\n\nFacebook: https://www.facebook.com/AQuietPlaceMovie\nTwitter: https://twitter.com/QuietPlaceMovie\nInstagram: https://www.instagram.com/AQuietPlaceMovie\n\nParamount Pictures Corporation (PPC), a major global producer and distributor of filmed entertainment, is a unit of Viacom (NASDAQ: VIAB, VIA), home to premier global media brands that create compelling television programs, motion pictures, short-form content, apps, games, consumer products, social media experiences, and other entertainment content for audiences in more than 180 countries.\n\nConnect with Paramount Pictures Online:\n\nOfficial Site: http://www.paramount.com/\nFacebook: https://www.facebook.com/Paramount\nInstagram: http://www.instagram.com/ParamountPics\nTwitter: https://twitter.com/paramountpics\nYouTube: https://www.youtube.com/user/Paramount\"",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/p9wE8dyzEJE/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/p9wE8dyzEJE/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/p9wE8dyzEJE/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/p9wE8dyzEJE/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/p9wE8dyzEJE/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "Paramount Pictures",
-    "tags": [
-     "horror movie",
-     "thriller movie",
-     "science fiction",
-     "sci fi",
-     "emily blunt",
-     "john krasinski",
-     "movie",
-     "movies",
-     "new movie",
-     "trailer",
-     "new movie trailers",
-     "movie trailer",
-     "2018 movies",
-     "upcoming movies"
-    ],
-    "categoryId": "1",
-    "liveBroadcastContent": "none",
-    "localized": {
-     "title": "A Quiet Place (2018) - Official Teaser Trailer - Paramount Pictures",
-     "description": "Silence is survival. Watch the teaser trailer for #AQuietPlace, starring Emily Blunt and John Krasinski. In theatres April 2018.\n\nFacebook: https://www.facebook.com/AQuietPlaceMovie\nTwitter: https://twitter.com/QuietPlaceMovie\nInstagram: https://www.instagram.com/AQuietPlaceMovie\n\nParamount Pictures Corporation (PPC), a major global producer and distributor of filmed entertainment, is a unit of Viacom (NASDAQ: VIAB, VIA), home to premier global media brands that create compelling television programs, motion pictures, short-form content, apps, games, consumer products, social media experiences, and other entertainment content for audiences in more than 180 countries.\n\nConnect with Paramount Pictures Online:\n\nOfficial Site: http://www.paramount.com/\nFacebook: https://www.facebook.com/Paramount\nInstagram: http://www.instagram.com/ParamountPics\nTwitter: https://twitter.com/paramountpics\nYouTube: https://www.youtube.com/user/Paramount\""
-    }
-   },
-   "contentDetails": {
-    "duration": "PT2M5S",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "false",
-    "licensedContent": true,
-    "projection": "rectangular"
-   },
-   "statistics": {
-    "viewCount": "1103170",
-    "likeCount": "4432",
-    "dislikeCount": "130",
-    "favoriteCount": "0",
-    "commentCount": "985"
-   }
-  },
   {
    "kind": "youtube#video",
    "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/Xw9xhBPDU1_GUd_440kdk8VMRPw\"",
@@ -675,159 +355,189 @@
    }
   },
   {
-   "kind": "youtube#video",
-   "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/-EaeE-QVhgOobnCNodpWZE6O0sA\"",
-   "id": "p8XP7A7kvzM",
-   "snippet": {
-    "publishedAt": "2013-11-27T05:00:00.000Z",
-    "channelId": "UCJ0uqCI0Vqr2Rrt1HseGirg",
-    "title": "Spill Your Guts or Fill Your Guts w/ Kim Kardashian",
-    "description": "James and Kim Kardashian take turns asking each other very personal questions about Kim's siblings and James's guests, which they must answer or eat disgusting foods, like a scarab beetle.\n\nMore Late Late Show:\nSubscribe: http://bit.ly/CordenYouTube\nWatch Full Episodes: http://bit.ly/1ENyPw4\nFacebook: http://on.fb.me/19PIHLC\nTwitter: http://bit.ly/1Iv0q6k\nInstagram: http://bit.ly/latelategram\n\nWatch The Late Late Show with James Corden weeknights at 12:35 AM ET/11:35 PM CT. Only on CBS.\n\nGet new episodes of shows you love across devices the next day, stream live TV, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B\n\n---\nEach week night, THE LATE LATE SHOW with JAMES CORDEN throws the ultimate late night after party with a mix of celebrity guests, edgy musical acts, games and sketches. Corden differentiates his show by offering viewers a peek behind-the-scenes into the green room, bringing all of his guests out at once and lending his musical and acting talents to various sketches. Additionally, bandleader Reggie Watts and the house band provide original, improvised music throughout the show. Since Corden took the reigns as host in March 2015, he has quickly become known for generating buzzworthy viral videos, such as Carpool Karaoke.\"",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/p8XP7A7kvzM/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/p8XP7A7kvzM/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/p8XP7A7kvzM/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/p8XP7A7kvzM/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     }
+      "kind": "youtube#video",
+      "etag": "\"7991kDR-QPaa9r0pePmDjBEa2h8/uPZRBEQJqeD7DJQ3eAU2SrnzVhw\"",
+      "id": "DQQN_79QrDY",
+      "snippet": {
+        "publishedAt": "2017-12-02T18:00:00.000Z",
+        "channelId": "UCxJsQFhb8PFjtuN5gdOV6-w",
+        "title": "1,000,000 Dominoes Falling is Oddly SATISFYING",
+        "description": "This is the most satisfying domino video in the world. 1,000,000 dominoes falling is oddly satisfying... many domino tricks and chain reactions create amazing effects when they fall :)\n✨SHARE this video if you were satisfied✨FB: http://bit.ly/2xnii ~ Twitter: https://ctt.ec/pA8sT\n\nPeople always steal my domino videos to make their own \"compilation\" videos... so I made my own 😈 Many of these clips are video game characters, cartoon characters, logos, movies, and YouTubers in dominoes. Please consider sharing and supporting the rightful owner of these domino videos :) http://bit.ly/2xnii\n\nWATCH MORE DOMINO VIDEOS HERE! 😊\n●YOUTUBERS in dominoes ➡️ http://bit.ly/2uRzTDf\n●My BEST domino projects ➡️ http://bit.ly/2swnIWN\n●Video games/movies in dominoes ➡️ http://bit.ly/2u8tZdx\n\nHey! I'm Hevesh5 and I am a professional Domino Artist. I design and build intricate domino setups and chain reactions for your entertainment and for commercial projects. Be sure to subscribe if you want to see more domino videos :) I upload new videos every SATURDAY at 1pm EST! http://bit.ly/SubH5\n\nFOLLOW ME HERE FOR MORE DOMINOES 😉\nInstagram ► http://instagram.com/Hevesh5\nTwitter ► http://twitter.com/Hevesh5 \nFacebook ► http://www.facebook.com/Hevesh5\n2nd Channel ► http://youtube.com/hevesh5extras\nOfficial Website ► http://hevesh5.com\nH5 shirts, signed dominoes, posters, & more! ► http://hevesh5.com/store/\nBusiness inquiries ► Hevesh5(at)gmail.com\n\nMusic: \"Love Rain Progressive House\" from Pond5",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DQQN_79QrDY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DQQN_79QrDY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DQQN_79QrDY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DQQN_79QrDY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DQQN_79QrDY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hevesh5",
+        "tags": [
+          "satisfying",
+          "oddly satisfying",
+          "dominoes falling",
+          "domino",
+          "satisfying videos",
+          "satisfying domino video",
+          "most satisfying video",
+          "most oddly satisfying",
+          "dominoes",
+          "dominos",
+          "domino tricks",
+          "most satisfying video in the world",
+          "insane domino tricks",
+          "Domino Rally",
+          "domino fall",
+          "1000000 dominoes",
+          "chain reaction",
+          "chain reactions",
+          "rube goldberg",
+          "rube goldberg machine",
+          "marble run",
+          "amazing triple spiral",
+          "hevesh5",
+          "domino spiral",
+          "骨牌",
+          "ドミノ",
+          "Dominostein",
+          "домино",
+          "ντόμινο",
+          "각설탕",
+          "Pitagora",
+          "Suichi",
+          "ピタゴラスイッチ"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "1,000,000 Dominoes Falling is Oddly SATISFYING",
+          "description": "This is the most satisfying domino video in the world. 1,000,000 dominoes falling is oddly satisfying... many domino tricks and chain reactions create amazing effects when they fall :)\n✨SHARE this video if you were satisfied✨FB: http://bit.ly/2xnii ~ Twitter: https://ctt.ec/pA8sT\n\nPeople always steal my domino videos to make their own \"compilation\" videos... so I made my own 😈 Many of these clips are video game characters, cartoon characters, logos, movies, and YouTubers in dominoes. Please consider sharing and supporting the rightful owner of these domino videos :) http://bit.ly/2xnii\n\nWATCH MORE DOMINO VIDEOS HERE! 😊\n●YOUTUBERS in dominoes ➡️ http://bit.ly/2uRzTDf\n●My BEST domino projects ➡️ http://bit.ly/2swnIWN\n●Video games/movies in dominoes ➡️ http://bit.ly/2u8tZdx\n\nHey! I'm Hevesh5 and I am a professional Domino Artist. I design and build intricate domino setups and chain reactions for your entertainment and for commercial projects. Be sure to subscribe if you want to see more domino videos :) I upload new videos every SATURDAY at 1pm EST! http://bit.ly/SubH5\n\nFOLLOW ME HERE FOR MORE DOMINOES 😉\nInstagram ► http://instagram.com/Hevesh5\nTwitter ► http://twitter.com/Hevesh5 \nFacebook ► http://www.facebook.com/Hevesh5\n2nd Channel ► http://youtube.com/hevesh5extras\nOfficial Website ► http://hevesh5.com\nH5 shirts, signed dominoes, posters, & more! ► http://hevesh5.com/store/\nBusiness inquiries ► Hevesh5(at)gmail.com\n\nMusic: \"Love Rain Progressive House\" from Pond5"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT10M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "831593",
+        "likeCount": "11854",
+        "dislikeCount": "836",
+        "favoriteCount": "0",
+        "commentCount": "1202"
+      }
     },
-    "channelTitle": "The Late Late Show with James Corden",
-    "tags": [
-     "James Corden",
-     "The Late Late Show",
-     "Colbert",
-     "late night",
-     "late night show",
-     "Stephen Colbert",
-     "Comedy",
-     "monologue",
-     "comedian",
-     "impressions",
-     "celebrities",
-     "carpool",
-     "karaoke",
-     "CBS",
-     "Late Late Show",
-     "Corden",
-     "joke",
-     "jokes",
-     "funny",
-     "funny video",
-     "funny videos",
-     "humor",
-     "celebrity",
-     "celeb",
-     "hollywood",
-     "famous"
-    ],
-    "categoryId": "24",
-    "liveBroadcastContent": "none",
-    "defaultLanguage": "en",
-    "localized": {
-     "title": "Spill Your Guts or Fill Your Guts w/ Kim Kardashian",
-     "description": "James and Kim Kardashian take turns asking each other very personal questions about Kim's siblings and James's guests, which they must answer or eat disgusting foods, like a scarab beetle.\n\nMore Late Late Show:\nSubscribe: http://bit.ly/CordenYouTube\nWatch Full Episodes: http://bit.ly/1ENyPw4\nFacebook: http://on.fb.me/19PIHLC\nTwitter: http://bit.ly/1Iv0q6k\nInstagram: http://bit.ly/latelategram\n\nWatch The Late Late Show with James Corden weeknights at 12:35 AM ET/11:35 PM CT. Only on CBS.\n\nGet new episodes of shows you love across devices the next day, stream live TV, and watch full seasons of CBS fan favorites anytime, anywhere with CBS All Access. Try it free! http://bit.ly/1OQA29B\n\n---\nEach week night, THE LATE LATE SHOW with JAMES CORDEN throws the ultimate late night after party with a mix of celebrity guests, edgy musical acts, games and sketches. Corden differentiates his show by offering viewers a peek behind-the-scenes into the green room, bringing all of his guests out at once and lending his musical and acting talents to various sketches. Additionally, bandleader Reggie Watts and the house band provide original, improvised music throughout the show. Since Corden took the reigns as host in March 2015, he has quickly become known for generating buzzworthy viral videos, such as Carpool Karaoke.\""
+	{
+      "kind": "youtube#video",
+      "etag": "\"7991kDR-QPaa9r0pePmDjBEa2h8/4D-gU7EKFziJv7TWk9FfdTewD4A\"",
+      "id": "l9RfZXPDVGw",
+      "snippet": {
+        "publishedAt": "2017-12-01T10:05:16.000Z",
+        "channelId": "UC_F8DoJf9MZogEOU51TpTbQ",
+        "title": "LIVE! Clash Royale: Crown Championship World Finals 2017",
+        "description": "Betretet die Arena! Von den Schöpfern von Clash of Clans kommt ein Echtzeit-Multiplayer-Spiel mit den Royals, euren Lieblings-Clash-Figuren und Vielen mehr.\n\nSammel und werte Dutzende von Karten auf. Es erwarten dich Clash of Clans Truppen, Zaubersprüche und Verteidigungen, die du kennst und liebst, sowie Royals: Prinzessinnen, Ritter, Drachenbaby und Viele mehr. Bilde einen Clan, um Karten zu teilen und erstelle deine eigene Gemeinschaft der großen Schlachten!  \n\nFühre die Clash Royale Familie zum Sieg!\n\nEIGENSCHAFTEN\n• Trete im 1-gegen-1 oder 2-gegen-2 gegen Spieler aus der ganzen Welt in Echtzeit an.\n• Gewinne Truhen, um Belohnungen freizuschalten, neue Karten zu sammeln und die Karten zu verbessern, die du bereits hast.\n• Zerstöre feindliche Türme und verdiene Kronen, um Kronentruhen zu bekommen.\n• Erstelle und erweitere deine Kartensammlung mit der Clash Royale Familie, mit Dutzenden deiner Lieblings-Clash-Truppen, Zaubersprüchen und Verteidigungen.\n• Baue die besten Kampfdecks, um deine Gegner zu schlagen.\n• Erstelle einen Clan, um Karten zu teilen und erstelle deine eigene Gemeinschaft der Schlachten.\n• Fordere deine Clankameraden und Freunde zu privaten Duellen heraus, oder spiele Seite-an-Seite in einem Duokampf.\n• Arbeite zusammen mit deinem Clan um Clantruhen freizuschlaten.\n• Stelle dich täglichen und wöchentlichen Quests für große Belohnungen.\n• Spiele jede Woche neue Events.\n• Lerne verschiedene Kampftaktiken indem du die besten Duelle auf TV Royale anschaust.\n\nBITTE BEACHTE! Clash Royale ist kostenlos herunterlad- und spielbar, allerdings können manche in-game Gegenstände für richtiges Geld gekauft werden. Wenn du von diesem Feature keinen Gebrauch machen möchtest, deaktiviere in-app Käufe in den Einstellungengen deines Gerätes. Außerdem, laut unseren Nutzungsbedingungen, musst du mindestens 13 Jahre alt sein um Clash Royale zu spielen und herunterzuladen. Eine Internetverbindung ist auch nötig. \nHast du Fragen oder Anliegen? Besuche https://supercell.helpshift.com/a/clash-royale/?p=web&l=de oder kontaktiere uns in-game über Einstellungen, Hilfe und Support.\nDatenschutzerklärung: http://supercell.com/en/privacy-policy/de/\nAllgemeine Geschäftsbedingungen: http://supercell.com/en/terms-of-service/de/\nLeitfaden für Eltern: http://supercell.com/en/parents/de/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l9RfZXPDVGw/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l9RfZXPDVGw/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l9RfZXPDVGw/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/l9RfZXPDVGw/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/l9RfZXPDVGw/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Clash Royale",
+        "tags": [
+          "Clash Royale",
+          "Clash Royale Game",
+          "Supercell",
+          "Supercell Game",
+          "Clash Royale Supercell",
+          "Mobile Game",
+          "Clash Royale Strategy",
+          "YaoYao",
+          "MusicMaster",
+          "Geltube",
+          "Adrian Piedra",
+          "Coltonw83",
+          "Winds",
+          "Berin",
+          "Fuchi",
+          "Sergioramos:)",
+          "X-Bow Master",
+          "CMcHugh",
+          "Electrify",
+          "quiet",
+          "Loupanji",
+          "Amaterasu",
+          "Tali",
+          "Crown Championship",
+          "World Finals"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "LIVE! Clash Royale: Crown Championship World Finals 2017",
+          "description": "Betretet die Arena! Von den Schöpfern von Clash of Clans kommt ein Echtzeit-Multiplayer-Spiel mit den Royals, euren Lieblings-Clash-Figuren und Vielen mehr.\n\nSammel und werte Dutzende von Karten auf. Es erwarten dich Clash of Clans Truppen, Zaubersprüche und Verteidigungen, die du kennst und liebst, sowie Royals: Prinzessinnen, Ritter, Drachenbaby und Viele mehr. Bilde einen Clan, um Karten zu teilen und erstelle deine eigene Gemeinschaft der großen Schlachten!  \n\nFühre die Clash Royale Familie zum Sieg!\n\nEIGENSCHAFTEN\n• Trete im 1-gegen-1 oder 2-gegen-2 gegen Spieler aus der ganzen Welt in Echtzeit an.\n• Gewinne Truhen, um Belohnungen freizuschalten, neue Karten zu sammeln und die Karten zu verbessern, die du bereits hast.\n• Zerstöre feindliche Türme und verdiene Kronen, um Kronentruhen zu bekommen.\n• Erstelle und erweitere deine Kartensammlung mit der Clash Royale Familie, mit Dutzenden deiner Lieblings-Clash-Truppen, Zaubersprüchen und Verteidigungen.\n• Baue die besten Kampfdecks, um deine Gegner zu schlagen.\n• Erstelle einen Clan, um Karten zu teilen und erstelle deine eigene Gemeinschaft der Schlachten.\n• Fordere deine Clankameraden und Freunde zu privaten Duellen heraus, oder spiele Seite-an-Seite in einem Duokampf.\n• Arbeite zusammen mit deinem Clan um Clantruhen freizuschlaten.\n• Stelle dich täglichen und wöchentlichen Quests für große Belohnungen.\n• Spiele jede Woche neue Events.\n• Lerne verschiedene Kampftaktiken indem du die besten Duelle auf TV Royale anschaust.\n\nBITTE BEACHTE! Clash Royale ist kostenlos herunterlad- und spielbar, allerdings können manche in-game Gegenstände für richtiges Geld gekauft werden. Wenn du von diesem Feature keinen Gebrauch machen möchtest, deaktiviere in-app Käufe in den Einstellungengen deines Gerätes. Außerdem, laut unseren Nutzungsbedingungen, musst du mindestens 13 Jahre alt sein um Clash Royale zu spielen und herunterzuladen. Eine Internetverbindung ist auch nötig. \nHast du Fragen oder Anliegen? Besuche https://supercell.helpshift.com/a/clash-royale/?p=web&l=de oder kontaktiere uns in-game über Einstellungen, Hilfe und Support.\nDatenschutzerklärung: http://supercell.com/en/privacy-policy/de/\nAllgemeine Geschäftsbedingungen: http://supercell.com/en/terms-of-service/de/\nLeitfaden für Eltern: http://supercell.com/en/parents/de/"
+        },
+        "defaultAudioLanguage": "de"
+      },
+      "contentDetails": {
+        "duration": "PT6H41M55S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "321102",
+        "likeCount": "10972",
+        "dislikeCount": "735",
+        "favoriteCount": "0",
+        "commentCount": "235"
+      }
     },
-    "defaultAudioLanguage": "en"
-   },
-   "contentDetails": {
-    "duration": "PT4S",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "true",
-    "licensedContent": true,
-    "projection": "rectangular"
-   },
-   "statistics": {
-    "viewCount": "3524741",
-    "likeCount": "96941",
-    "dislikeCount": "2978",
-    "favoriteCount": "0",
-    "commentCount": "5484"
-   }
-  },
-  {
-   "kind": "youtube#video",
-   "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/ysUrjZlrE6EP1NTY9IxHF2weQWo\"",
-   "id": "t1shnJT8NCY",
-   "snippet": {
-    "publishedAt": "2017-01-01T05:00:00.000Z",
-    "channelId": "UC18vz5hUUqxbGvym9ghtX_w",
-    "title": "We Can All Do Better Than Roy Moore | November 15, 2017 Act 1 | Full Frontal on TBS",
-    "description": "Hey Alabama, on December 12 you have a chance to prove all us Yankee assholes wrong. PLEASE prove us wrong.\n\nWatch Full Frontal with Samantha Bee all new Wednesdays at 10:30/ 9:30c on TBS!",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/t1shnJT8NCY/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/t1shnJT8NCY/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/t1shnJT8NCY/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/t1shnJT8NCY/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/t1shnJT8NCY/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "Full Frontal with Samantha Bee",
-    "tags": [
-     "Full Frontal with Samantha Bee",
-     "Full Frontal",
-     "Samantha Bee",
-     "Sam Bee",
-     "TBS",
-     "Roy Moore"
-    ],
-    "categoryId": "22",
-    "liveBroadcastContent": "none",
-    "localized": {
-     "title": "We Can All Do Better Than Roy Moore | November 15, 2017 Act 1 | Full Frontal on TBS",
-     "description": "Hey Alabama, on December 12 you have a chance to prove all us Yankee assholes wrong. PLEASE prove us wrong.\n\nWatch Full Frontal with Samantha Bee all new Wednesdays at 10:30/ 9:30c on TBS!"
-    },
-    "defaultAudioLanguage": "en"
-   },
-   "contentDetails": {
-    "duration": "PT6M",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "true",
-    "licensedContent": true,
-    "projection": "rectangular"
-   },
-   "statistics": {
-    "viewCount": "312893",
-    "likeCount": "4983",
-    "dislikeCount": "1291",
-    "favoriteCount": "0",
-    "commentCount": "1156"
-   }
-  },
   {
    "kind": "youtube#video",
    "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/yH7koin4uKNdcerrBjeelT21hv8\"",
@@ -976,74 +686,92 @@
    }
   },
   {
-   "kind": "youtube#video",
-   "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/vVQaFAssJ3ijlcP-y4j3z1ER8MI\"",
-   "id": "ixxR3ZoqnF0",
-   "snippet": {
-    "publishedAt": "2017-11-16T15:00:05.000Z",
-    "channelId": "UC3IZKseVpdzPSBaWxBxundA",
-    "title": "BTS (방탄소년단) 'MIC Drop (Steve Aoki Remix)' Official Teaser",
-    "description": "BTS (방탄소년단) 'MIC Drop (Steve Aoki Remix)' Official Teaser\n\n\n'MIC Drop (Steve Aoki Remix)' MV will be released on November 24, 2017. \n\n\n\n\nConnect with BTS:\nhttp://www.ibighit.com \nhttp://twitter.com/BTS_bighit \nhttp://twitter.com/BTS_twt \nhttps://www.facebook.com/ibighit/\nhttp://www.facebook.com/bangtan.official\nhttp://instagram.com/BTS.bighitofficial\nhttp://weibo.com/BTSbighit",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/ixxR3ZoqnF0/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/ixxR3ZoqnF0/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/ixxR3ZoqnF0/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/ixxR3ZoqnF0/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     },
-     "maxres": {
-      "url": "https://i.ytimg.com/vi/ixxR3ZoqnF0/maxresdefault.jpg",
-      "width": 1280,
-      "height": 720
-     }
-    },
-    "channelTitle": "ibighit",
-    "tags": [
-     "BIGHIT",
-     "빅히트",
-     "방탄소년단",
-     "BTS",
-     "BANGTAN",
-     "방탄"
-    ],
-    "categoryId": "10",
-    "liveBroadcastContent": "none",
-    "defaultLanguage": "ko",
-    "localized": {
-     "title": "BTS (방탄소년단) 'MIC Drop (Steve Aoki Remix)' Official Teaser",
-     "description": "BTS (방탄소년단) 'MIC Drop (Steve Aoki Remix)' Official Teaser\n\n\n'MIC Drop (Steve Aoki Remix)' MV will be released on November 24, 2017. \n\n\n\n\nConnect with BTS:\nhttp://www.ibighit.com \nhttp://twitter.com/BTS_bighit \nhttp://twitter.com/BTS_twt \nhttps://www.facebook.com/ibighit/\nhttp://www.facebook.com/bangtan.official\nhttp://instagram.com/BTS.bighitofficial\nhttp://weibo.com/BTSbighit"
-    },
-    "defaultAudioLanguage": "en"
-   },
-   "contentDetails": {
-    "duration": "PT1M",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "false",
-    "licensedContent": true,
-    "projection": "rectangular"
-   },
-   "statistics": {
-    "viewCount": "2783120",
-    "likeCount": "719741",
-    "dislikeCount": "2338",
-    "favoriteCount": "0",
-    "commentCount": "68377"
-   }
-  }
+      "kind": "youtube#video",
+      "etag": "\"7991kDR-QPaa9r0pePmDjBEa2h8/FzeFSfGBE5F4mL1CxKHdbDxSIs4\"",
+      "id": "2LbokmbCY8A",
+      "snippet": {
+        "publishedAt": "2017-12-01T10:21:16.000Z",
+        "channelId": "UC_F8DoJf9MZogEOU51TpTbQ",
+        "title": "¡EN VIVO! Clash Royale: Finales mundiales del Crown Championship 2017",
+        "description": "Entra en la Arena! De los creadores de Clash of Clans llega un juego multijugador en tiempo real protagonizado por los Royales, sus personajes favoritos de Clash y mucho, mucho más.\n\nColecciona y mejora decenas de cartas con tropas de Clash of Clans, hechizos y defensas que conoces y amas, así como también a los Royales: Princesas, Caballeros, Bebé Dragones y más. ¡Forma un clan para compartir cartas y crear tu propia comunidad de batallas geniales!\n\nCARACTERISTICAS\n• Lucha contra jugadores alrededor del mundo en tiempo real y gana trofeos.\n• Gana cofres para desbloquear recompensas, coleccionar cartas nuevas y mejorar las que ya tienes.\n• Destruye las torres enemigas y gana Coronas para obtener cofres de coronas épicos.\n• Construye y mejora tu colección de cartas con la Familia Clash Royale con decenas de tus tropas, hechizos y defensas favoritas de Clash.\n• Construye el mejor mazo de Batallas para ganarle a tus oponentes.\n• Forma un clan para compartir cartas y crear tu propia comunidad de batallas\n• Desafía a tus colegas de clan y amigos a duelos privados, o juega con ellos en el modo 2c2\n* Juega a través de las Arenas hasta llegar al tope\n* Desbloquea las nuevas Misiones para grandes recompensas\n* Experimenta los nuevos eventos semanales\n* Aprende nuevas tácticas de batalla al mirar los mejores duelos en TV Royale\n\nIMPORTANTE: Es gratis jugar a Clash Royale, sin embargo, hay herramientas dentro del juego que también pueden ser compradas con dinero real. Si no deseas usar estas herramientas, por favor desactiva las compras dentro de tus aplicaciones en la configuración de tu móvil.\n\nSoporte: ¿Estás teniendo problemas? Dirígete a https://supercell.helpshift.com/a/clash-royale/?p=web&l=es\nPolítica de Privacidad: http://supercell.com/en/privacy-policy/es/\nCondiciones de Servicio: http://supercell.com/en/terms-of-service/es/\nGuía para padres: http://supercell.com/en/parents/es/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2LbokmbCY8A/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2LbokmbCY8A/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2LbokmbCY8A/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2LbokmbCY8A/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2LbokmbCY8A/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Clash Royale",
+        "tags": [
+          "Clash Royale",
+          "Clash Royale Game",
+          "Supercell",
+          "Supercell Game",
+          "Clash Royale Supercell",
+          "Mobile Game",
+          "Clash Royale Strategy",
+          "YaoYao",
+          "MusicMaster",
+          "Geltube",
+          "Adrian Piedra",
+          "Coltonw83",
+          "Winds",
+          "Berin",
+          "Fuchi",
+          "Sergioramos:)",
+          "X-Bow Master",
+          "CMcHugh",
+          "Electrify",
+          "quiet",
+          "Loupanji",
+          "Amaterasu",
+          "Tali",
+          "Crown Championship",
+          "World Finals"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "¡EN VIVO! Clash Royale: Finales mundiales del Crown Championship 2017",
+          "description": "Entra en la Arena! De los creadores de Clash of Clans llega un juego multijugador en tiempo real protagonizado por los Royales, sus personajes favoritos de Clash y mucho, mucho más.\n\nColecciona y mejora decenas de cartas con tropas de Clash of Clans, hechizos y defensas que conoces y amas, así como también a los Royales: Princesas, Caballeros, Bebé Dragones y más. ¡Forma un clan para compartir cartas y crear tu propia comunidad de batallas geniales!\n\nCARACTERISTICAS\n• Lucha contra jugadores alrededor del mundo en tiempo real y gana trofeos.\n• Gana cofres para desbloquear recompensas, coleccionar cartas nuevas y mejorar las que ya tienes.\n• Destruye las torres enemigas y gana Coronas para obtener cofres de coronas épicos.\n• Construye y mejora tu colección de cartas con la Familia Clash Royale con decenas de tus tropas, hechizos y defensas favoritas de Clash.\n• Construye el mejor mazo de Batallas para ganarle a tus oponentes.\n• Forma un clan para compartir cartas y crear tu propia comunidad de batallas\n• Desafía a tus colegas de clan y amigos a duelos privados, o juega con ellos en el modo 2c2\n* Juega a través de las Arenas hasta llegar al tope\n* Desbloquea las nuevas Misiones para grandes recompensas\n* Experimenta los nuevos eventos semanales\n* Aprende nuevas tácticas de batalla al mirar los mejores duelos en TV Royale\n\nIMPORTANTE: Es gratis jugar a Clash Royale, sin embargo, hay herramientas dentro del juego que también pueden ser compradas con dinero real. Si no deseas usar estas herramientas, por favor desactiva las compras dentro de tus aplicaciones en la configuración de tu móvil.\n\nSoporte: ¿Estás teniendo problemas? Dirígete a https://supercell.helpshift.com/a/clash-royale/?p=web&l=es\nPolítica de Privacidad: http://supercell.com/en/privacy-policy/es/\nCondiciones de Servicio: http://supercell.com/en/terms-of-service/es/\nGuía para padres: http://supercell.com/en/parents/es/"
+        },
+        "defaultAudioLanguage": "es"
+      },
+      "contentDetails": {
+        "duration": "PT6H42M49S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "658511",
+        "likeCount": "28831",
+        "dislikeCount": "991",
+        "favoriteCount": "0",
+        "commentCount": "858"
+      }
+    }
  ]
 }
