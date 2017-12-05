@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { fetchTrendingVideos } from 'actions/fetch';
+import Loadable from 'shared/Loadable';
 import Video from 'shared/Video';
 
 class Trending extends Component {
@@ -15,7 +16,7 @@ class Trending extends Component {
 		const { videos } = this.props;
 
 		return (
-			<div className="trending">
+			<Loadable show className="trending">
 				{
 					videos.map((vid) => (
 						<Video
@@ -25,7 +26,7 @@ class Trending extends Component {
 						/>
 					))
 				}
-			</div>
+			</Loadable>
 		);
 	}
 }
