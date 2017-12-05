@@ -16,7 +16,10 @@ class Trending extends Component {
 		const { videos } = this.props;
 
 		return (
-			<Loadable show className="trending">
+			<Loadable
+				show={ videos.length === 0 }
+				className="trending"
+			>
 				{
 					videos.map((vid) => (
 						<Video
