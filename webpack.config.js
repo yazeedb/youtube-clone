@@ -12,6 +12,7 @@ module.exports = {
 	resolve: {
 		extensions: ['.js'],
 		alias: {
+			src: root('src'),
 			actions: root('src/actions'),
 			reducers: root('src/reducers'),
 			components: root('src/components'),
