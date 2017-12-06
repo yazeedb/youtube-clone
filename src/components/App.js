@@ -1,5 +1,4 @@
 import React from 'react';
-import { withRouter } from 'react-router';
 import PrimaryAppBar from './shared/AppBar/PrimaryAppBar';
 import BottomNav from './shared/BottomNav';
 
@@ -12,8 +11,15 @@ const App = (props) => (
 			{ props.children }
 		</div>
 
-		<BottomNav selectedIndex={ 1 } />
+		<BottomNav
+			links={[
+				{ name: 'Home', href: '/' },
+				{ name: 'Trending', href: '/trending' },
+				{ name: 'Subscriptions', href: '/subscriptions' },
+				{ name: 'Library', href: '/library' }
+			]}
+		/>
 	</div>
 );
 
-export default withRouter(App);
+export default App;
